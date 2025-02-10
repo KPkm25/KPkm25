@@ -14,10 +14,10 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a budding Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+A Full Stack Developer and a budding DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- I'm a student on a journey to master backend development using Node.js.
-- In my free time I solve problems on LeetCode and try my hand at writing blogs.
+- Delving into the vast world of CI/CD pipelines and Cloud Architecture.
+- Training the mind and body when not working via gym and blogging.
 
 ---
 
