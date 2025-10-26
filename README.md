@@ -7,8 +7,6 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=KPkm25&style=flat-square&color=blue" alt=""></p>
 <hr>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
 ### :woman_technologist: &nbsp;About Me :
 
 A Full Stack Developer and a budding DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
